@@ -23,4 +23,4 @@ YES THIS HOW I GET ***WINDOWS*** ON ***LINUX*** pls do it
 
 ## Walkthrough Video
 
-{{< youtube 6KqqNsnkDlQ >}}
+{{< youtube HyRo2WMWwzQ >}}
