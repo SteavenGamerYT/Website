@@ -1,8 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'SteavenGamerYT'
-#theme = 'ananke'
-#theme ='paper'
 theme ="hello-friend-ng"
 paginate     = 10
 [markup.goldmark.renderer]
