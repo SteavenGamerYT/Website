@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://christitus.com/"
+baseURL = "http://arabcraft.ddns.net:1313/"
 title = "SteavenGamerYT | Hream"
 # theme
 theme = "northendlab"
