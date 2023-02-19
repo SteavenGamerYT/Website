@@ -66,7 +66,7 @@ Include = /etc/pacman.d/mirrorlist
 ```
 
 ```
-sudo pacman -S lib32-mesa vulkan-icd-loader lib32-vulkan-icd-loader -y
+sudo pacman -S --noconfirm --needed lib32-mesa vulkan-icd-loader lib32-vulkan-icd-loader
 ```
 
 ***
@@ -112,7 +112,7 @@ sudo apt-get install linux-image-liquorix-amd64 linux-headers-liquorix-amd64 -y
 Built into Arch Linux and part of the official pacman repositories. This does a lot of the same tweaks as Liquorix but for Arch based distributions. 
 
 ```
-pacman -S linux-zen -y
+pacman -S --noconfirm --needed linux-zen
 ```
 
 ### Mainline (Debian Bleeding Edge)
@@ -124,7 +124,7 @@ This will update a debian stable release to the latest official kernel.
 #### Installation 
 
 ```
-apt install wget -y
+sudo apt install wget -y
 wget https://raw.githubusercontent.com/pimlie/ubuntu-mainline-kernel.sh/master/ubuntu-mainline-kernel.sh
 chmod +x ubuntu-mainline-kernel.sh
 sudo mv ubuntu-mainline-kernel.sh /usr/local/bin/
@@ -179,7 +179,7 @@ sudo apt-get install lutris -y
 ### Arch-Based Distros
 
 ```
-sudo pacman -S wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader lutris -y
+sudo pacman -S --noconfirm --needed wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjpeg-turbo lib32-libjpeg-turbo sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama ncurses lib32-ncurses opencl-icd-loader lib32-opencl-icd-loader libxslt lib32-libxslt libva lib32-libva gtk3 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader lutris
 ```
 
 ***
@@ -226,7 +226,7 @@ apt install meson libsystemd-dev pkg-config ninja-build git libdbus-1-dev libini
 ### Arch Dependencies
 
 ```
-pacman -S meson systemd git dbus -y
+pacman -S --noconfirm --needed meson systemd git dbus
 ```
 
 ### Build and Install GameMode
@@ -234,7 +234,7 @@ pacman -S meson systemd git dbus -y
 ```
 git clone https://github.com/FeralInteractive/gamemode.git
 cd gamemode
-git checkout 1.5.1 # omit to build the master branch
+git checkout 1.7 # omit to build the master branch
 ./bootstrap.sh
 ```
 
