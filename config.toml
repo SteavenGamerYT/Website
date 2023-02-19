@@ -30,7 +30,7 @@ logoHeight = 50
 # favicon
 favicon = "images/favicon.png"
 # meta data
-author = "Chris Titus"
+author = "SteavenGamerYT"
 description = "Having Fun with Technology"
 # homepage main section
 mainSections = ["posts"]
@@ -128,31 +128,31 @@ attributes = "crossorigin='anonymous' defer='defer' data-search-pseudo-elements"
 ############################## Social Site ##########################
 [[params.social]]
 icon = "fab fa-youtube" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://youtube.com/c/ChrisTitusTech"
+link = "https://youtube.com/steavengameryt1"
 [[params.social]]
 icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://github.com/christitustech"
+link = "https://github.com/steavengameryt"
 [[params.social]]
 icon = "fas fa-rss" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://christitus.com/rss"
+link = "http://arabcraft.ddns.net:1313/rss/"
 
 ####################### Banner #######################################
 [Languages.en.banner]
 bg_image = "images/bannerbackground.png"
-title = "<strong>Chris Titus Tech</strong><br>How To Articles, <br>Image Downloads,<br> Tech Guides."
+title = "<strong>SteavenGamerYT</strong><br>How To Articles, <br>Image Downloads,<br> Tech Guides."
 image = "images/operating systems.jpg"
 
 ######################## About Me Widget ###############################
 [Languages.en.about_me]
-title = "Chris Titus Tech"
+title = "SteavenGamerYT"
 bio = ""
 
 [[params.social_profile]]
 icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://github.com/christitustech"
+link = "https://github.com/steavengameryt"
 [[params.social_profile]]
 icon = "fab fa-youtube" # Fontawesome icon pack https://fontawesome.com/icons
-link = "https://youtube.com/c/ChrisTitusTech"
+link = "https://youtube.com/steavengameryt1"
 
 ######################## call to action ###############################
 [params.cta]
