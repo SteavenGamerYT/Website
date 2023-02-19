@@ -3,7 +3,7 @@ title: "An Anime Game"
 
 date: 2023-02-01
 url: /ananimegame
-image: images/2023/windows10.jpg
+image: images/2023/ananimegame.jpg
 categories:
   - linux
 tags:
@@ -20,7 +20,7 @@ draft: false
 <!DOCTYPE html>
 <html>
 <title>SteavenGamerYT</title>
-<link rel="shortcut icon" href="https://e0.pxfuel.com/wallpapers/696/347/desktop-wallpaper-best-pikachu-angry-thumbnail.jpg" type="image/x-icon">
+<link rel="shortcut icon" href="ananimegame type="image/x-icon">
 <link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 <meta property="og:title" content="SteavenGamerYT">
