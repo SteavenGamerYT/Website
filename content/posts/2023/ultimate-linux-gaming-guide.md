@@ -41,7 +41,7 @@ sudo apt update
 sudo apt install libgl1-mesa-dri:i386 mesa-vulkan-drivers mesa-vulkan-drivers:i386 -y
 ```
 
-*Note: Did you run into an error? Make sure you are running Ubuntu 20, Linux Mint 20, or Pop OS 20! - Older versions are not recommended*
+*Note: Did you run into an error? Make sure you are running Ubuntu 22.04, Linux Mint 21.1, or Pop OS 22.04! - Older versions are not recommended*
 
 ![nVidia](/images/nvidia-title.png)
 
