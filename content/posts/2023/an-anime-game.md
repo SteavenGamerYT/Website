@@ -1,7 +1,7 @@
 ---
 title: "An Anime Game"
 
-date: 2023-02-01
+date: 2023-02-19
 url: /ananimegame
 image: images/2023/ananimegame.jpg
 categories:

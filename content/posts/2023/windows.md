@@ -1,7 +1,7 @@
 ---
 title: "Windows 10"
 
-date: 2023-02-01
+date: 2023-02-19
 url: /windows10
 image: images/2023/windows10.jpg
 categories:
