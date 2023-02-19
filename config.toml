@@ -24,7 +24,7 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 ######################### Default Parameters ###########################
 [params]
 # logo
-logo = "images/Pikachu.jpg"
+logo = "images/2897ec5d34936e14686134a874435197.jpg"
 logoWidth = 121
 logoHeight = 50
 # favicon
