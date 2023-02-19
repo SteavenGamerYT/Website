@@ -41,13 +41,13 @@ to install it run in terminal
 open gnome-software and click locztitions
 
 
-!(images/2023/lang1.png)
+![](images/2023/lang1.png)
 
 
 Chose language
 
 
-!(images/2023/lang2.png)
+![](images/2023/lang2.png)
 
 
 click install, done
