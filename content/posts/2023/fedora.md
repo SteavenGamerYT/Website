@@ -6,7 +6,6 @@ url: /fedora
 image: images/2023/fedora.png
 categories:
   - Linux
-  - Windows
 tags:
   - Ubuntu
   - Fedora
