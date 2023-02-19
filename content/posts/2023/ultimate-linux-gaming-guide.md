@@ -165,7 +165,7 @@ RADV_PERFTEST=aco
 
 There are several packages that wine, proton and lutris game installs need. I recommend installing all the dependancies before installing lutris.
 
-### Ubuntu/Mint/Pop OS! 22
+### Ubuntu 22.04/Mint 21.1/Pop OS! 22.04
 
 ```
 sudo mkdir -pm755 /etc/apt/keyrings
