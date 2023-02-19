@@ -220,7 +220,7 @@ GitHub Source Project: <https://github.com/FeralInteractive/gamemode>
 ### Ubuntu/Debian Dependencies
 
 ```
-apt install meson libsystemd-dev pkg-config ninja-build git libdbus-1-dev libinih-dev dbus-user-session -y
+sudo apt install meson libsystemd-dev pkg-config ninja-build git libdbus-1-dev libinih-dev dbus-user-session -y
 ```
 
 ### Arch Dependencies
