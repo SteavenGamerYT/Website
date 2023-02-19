@@ -37,8 +37,17 @@ draft: false
 <p style="color:rgb(0, 0, 0); font-family:ubuntu"></pstyle>open Genshin Impact that you copyed from windows</p>
 <p style="color:rgb(0, 0, 0); font-family:ubuntu"></pstyle>copy from it Genshin Impact Game</p>
 <p style="color:rgb(0, 0, 0); font-family:nubuntuoto"></pstyle>rename it to Genshin Impact</p>
-<p style="color:rgb(0, 0, 0); font-family:ubuntu"></pstyle>and paste it to  /home/(your username)/.local/share/anime-game-launcher/game/drive_c/Program Files/ </p>
-<h1 style="color:rgb(255, 255, 0); font-family:ubuntu">Game Installed</h1>
+</body>
+</html>
+
+
+and paste it to  `/home/(your username)/.local/share/anime-game-launcher/game/drive_c/Program Files/`
+Game Installed
+
+
+<!DOCTYPE html>
+<html>
+<body>
 <img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_start.png">
 </body>
 </html>
