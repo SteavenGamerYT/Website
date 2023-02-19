@@ -16,32 +16,52 @@ draft: false
 
 ## Introduction
 
-
 <!DOCTYPE html>
 <html>
-<title>SteavenGamerYT</title>
-<link rel="shortcut icon" href="ananimegame type="image/x-icon">
-<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
-<meta property="og:title" content="SteavenGamerYT">
-<meta property="og:description" content="An Anime Game">
-<body>
-<h1 style="color:rgb(255, 255, 0); font-family:ubuntu">An Anime Game</h1>
 <p><a href="https://github.com/an-anime-team/an-anime-game-launcher/releases" style="color: rgb(0, 0, 0)" target="_blank">An Anime Game</a></p>
-<h1 style="color:rgb(255, 255, 0); font-family:ubuntu">Installing the game</h1>
-<img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_wine.png">
-<p style="color:rgb(0, 0, 0); font-family:ubuntu"></pstyle>So frist open the app image and click install wine and wait </p>
-<h1 style="color:rgb(255, 255, 0); font-family:ubuntu">Copying the game from Windows</h1>
-<img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_install.png">
-<p style="color:rgb(0, 0, 0); font-family:ubuntu"></pstyle>when it shows that, that means its the time to copy it from windows</p>
-<p style="color:rgb(0, 0, 0); font-family:ubuntu"></pstyle>open Genshin Impact that you copyed from windows</p>
-<p style="color:rgb(0, 0, 0); font-family:ubuntu"></pstyle>copy from it Genshin Impact Game</p>
-<p style="color:rgb(0, 0, 0); font-family:nubuntuoto"></pstyle>rename it to Genshin Impact</p>
 </body>
 </html>
 
 
+Installing the game
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_wine.png">
+</body>
+</html>
+
+
+So frist open the app image and click install wine and wait
+
+
+Copying the game from Windows
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_install.png">
+</body>
+</html>
+
+
+when it shows that, that means its the time to copy it from windows
+
+
+open Genshin Impact that you copyed from windows
+
+
+copy from it Genshin Impact Game
+
+
+rename it to Genshin Impact
+
 and paste it to  `/home/(your username)/.local/share/anime-game-launcher/game/drive_c/Program Files/`
+
+
 Game Installed
 
 
