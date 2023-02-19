@@ -3,7 +3,7 @@ title: "Fedora"
 
 date: 2023-02-19
 url: /fedora
-image: images/2023-thumbs/{{ .Name }}.jpg
+image: images/2023/fedora.jpg
 categories:
   - Linux
   - Windows
