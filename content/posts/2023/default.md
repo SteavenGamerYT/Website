@@ -1,7 +1,7 @@
 ---
 title: "Fedora"
 
-date: 2023-2-19
+date: 2023-02-19
 url: /fedora
 image: images/2023-thumbs/{{ .Name }}.jpg
 categories:
