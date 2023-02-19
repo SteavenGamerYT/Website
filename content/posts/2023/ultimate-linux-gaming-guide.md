@@ -80,8 +80,9 @@ sudo pacman -S lib32-mesa vulkan-icd-loader lib32-vulkan-icd-loader -y
 Official Site: <https://xanmod.org>
 
 ```
-echo 'deb http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list && wget -qO - https://dl.xanmod.org/gpg.key | sudo apt-key add -
-sudo apt update && sudo apt install linux-xanmod -y
+echo 'deb http://deb.xanmod.org releases main' | sudo tee /etc/apt/sources.list.d/xanmod-kernel.list
+wget -qO - https://dl.xanmod.org/gpg.key | sudo apt-key --keyring /etc/apt/trusted.gpg.d/xanmod-kernel.gpg add -
+sudo apt update && sudo apt install linux-xanmod-x64v3 -y
 ```
 
 ### Liquorix (Debian-based Only)
