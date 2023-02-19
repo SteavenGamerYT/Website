@@ -25,15 +25,6 @@ draft: false
 <link href='https://fonts.googleapis.com/css?family=Noto Sans' rel='stylesheet'>
 <meta property="og:title" content="SteavenGamerYT">
 <meta property="og:description" content="An Anime Game">
-<style>
-    body {
-      background-image: url('https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/genshin-impact.jpg');
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: 100% 100%;
-      text-align:center
-    }
-</style>
 <body>
 <h1 style="color:rgb(255, 255, 0); font-family:ubuntu">An Anime Game</h1>
 <p><a href="https://github.com/an-anime-team/an-anime-game-launcher/releases" style="color: rgb(0, 0, 0)" target="_blank">An Anime Game</a></p>
