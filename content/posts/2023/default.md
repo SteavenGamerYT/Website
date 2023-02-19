@@ -48,8 +48,3 @@ draft: false
 <img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/fedora_screenshot1.png">
 </body>
 </html>
-
-
-## Walkthrough Video
-
-{{< youtube 11111111 >}}
