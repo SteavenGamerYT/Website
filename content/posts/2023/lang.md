@@ -20,7 +20,7 @@ Fixing Language Display Problems in Linux
 So in order to fix it you need to have gonme-software installed
 
 
-#####  Installing Gnome-software
+##  Installing Gnome-software
 
 
 to install it run in terminal
@@ -35,7 +35,7 @@ to install it run in terminal
 `sudo pacman -S gnome-software`
 
 
-#####  Installing Language
+##  Installing Language
 
 
 open gnome-software and click locztitions
