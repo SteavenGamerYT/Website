@@ -3,7 +3,7 @@ title: "Fixing Language Display Problems in Linux"
 
 date: 2023-02-19
 url: /lang
-image: images/2023/fedora.png
+image: images/2023/fedora2023/fedora.png
 categories:
   - Linux
 tags:
