@@ -3,7 +3,7 @@ title: "How to install Arch Linux"
 
 date: 2023-02-21
 url: /how-to-install-arch-linux
-image: https://itsfoss.com/content/images/wordpress/2017/12/install-arch-linux-featured-800x450.png
+image: images/2023/how-to-install-arch-linux/install-arch-linux-featured-800x450.webp
 categories:
   - Linux
 tags:
@@ -78,7 +78,7 @@ You will have to create a live USB of Arch Linux from the ISO you just downloade
 
 You may use the Etcher GUI tool to create the live USB. It is available for both Windows and Linux.
 
-![](https://itsfoss.com/content/images/wordpress/2020/01/arch_linux_live_usb.jpg)
+![](/images/2023/how-to-install-arch-linux/arch_linux_live_usb.jpg)
 
 Alternatively, if you are on Linux, you can use the dd command to create a live USB. Replace /path/to/archlinux.iso with the path where you have downloaded the ISO file, and /dev/sdx with your USB drive in the example below. You can get your drive information using lsblk command.
 
@@ -93,7 +93,7 @@ Stick to balenaEtcher if you are comfortable with a GUI.
 Once you have created a live USB for Arch Linux, shut down your PC. Plugin your USB and boot your system. While booting keep pressing F2, F10 or F12 key (depending upon your system) to go into boot settings.
 
 Here, select to boot from USB or removable disk. Once you do that and the system boots, you should see an option like this:
-![](https://itsfoss.com/content/images/wordpress/2022/05/Arch-Linux-Boot-Screen-800x611.png)
+![](/images/2023/how-to-install-arch-linux//Arch-Linux-Boot-Screen-800x611.webp)
 
 Select Boot Arch Linux (x86_64). After various checks, Arch Linux will boot to the login prompt with the root user.
 
@@ -152,13 +152,12 @@ If this directory exists, you have a UEFI enabled system. You should follow the 
 If you have a UEFI system, you must create an EFI partition at the beginning of your disk. Otherwise, skip this step.
 
 When you enter n, it will ask you to choose a disk number, enter 1. Stay with the default block size, when it asks for the partition size, enter +512M.
-![](https://itsfoss.com/content/images/wordpress/2022/05/fdisk_new_efi-800x290.png)
+![](/images/2023/how-to-install-arch-linux/fdisk_new_efi-800x290.webp)
 
 One important steps is to change the type of the EFI partition to EFI System (instead of Linux system).
 
 Enter t to change type. Enter L to see all the partition types available and then enter its corresponding number to the EFI system.
-
-![](https://itsfoss.com/content/images/wordpress/2022/05/Change-type-of-EFI-System-Partition-800x659.png)
+![](/images/2023/how-to-install-arch-linux/Change-type-of-EFI-System-Partition-800x659.webp)
 ## Create root partition
 You need to create root partition for both UEFI and legacy systems.
 
@@ -167,8 +166,7 @@ The common partitioning practice was/is to create root, swap and home partitions
 So, in this approach, we’ll have a single root partition, no swap, no home.
 
 While you are in the fdisk command, press n to create a new partition. It will automatically give it partition number 2. This time keep on pressing enter to allocate entire remaining disk space to the root partition.
-
-![](https://itsfoss.com/content/images/wordpress/2022/05/New-_Partition-800x246.png)
+![](/images/2023/how-to-install-arch-linux/New-_Partition-800x246.webp)
 
 When you are done with the disk partitioning, enter w command to write the changes to the disk and exit out of fdisk command.
 
@@ -288,7 +286,7 @@ Open the file using Vim or Nano editor and uncomment (remove the # from the star
 The command to open the file looks like:
 
 `nano /etc/locale.gen`
-![](https://itsfoss.com/content/images/wordpress/2022/05/localeGen-800x335.png)
+![](/images/2023/how-to-install-arch-linux/localeGen-800x335.webp)
 I have used en_GB.UTF-8 (English with Great Britain). Hit Ctrl + X and then Y to save the selection and continue.
 
 Now generate the locale config in the /etc directory file using the below commands one by one:
@@ -386,7 +384,7 @@ Finally, you need to edit the visudo file, specifically the line referring to wh
 It opens in VI editor by default. So we need to force it use nano:
 
 `EDITOR=nano visudo`
-![](https://itsfoss.com/content/images/wordpress/2022/05/visudo-800x273.png)
+![](/images/2023/how-to-install-arch-linux/visudo-800x273.webp)
 Save the changes and exit from this file.
 
 ## Step 11: Install a desktop environment (GNOME in this case)
