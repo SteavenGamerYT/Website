@@ -192,6 +192,7 @@ For non-UEFI system, you only have one single root partition. So just make it ex
 You can connect to WiFi interactively using this helpful utility called iwctl. Just enter this command and follow the on-screen instructions:
 
 `iwctl`
+
 Next, you can list all your wireless interfaces/devices connected using the command:
 
 `device list`
@@ -201,18 +202,23 @@ You need to select the preferred one.
 Once you select the wireless interface, scan for available network using the command below:
 
 `station wlan0 scan`
+
 While it scans for the network, you don’t get to see the network names yet. So, to see the connections available, you can type in:
 
 `station wlan0 get-networks`
+
 Among the listed networks, you can connect to your target Wi-Fi using the command:
 
 `station wlan0 connect "Name of Network/WiFi"`
+
 If it is protected by a password, you will be asked for it, enter the credentials and you should be connected to it.
 
 Exit the network setup prompt using Ctrl + D.
 
 Now, we’re connected to the network, but to make sure, you can check if you could use the internet by using the ping command:
+
 `ping google.com`
+
 If you get bytes in reply, you are connected. Use Ctrl+C to stop the ping reply.
 
 ## Step 6: Select an appropriate mirror
