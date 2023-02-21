@@ -2,7 +2,7 @@
 title: "The Ultimate Linux Gaming Guide"
 
 date: 2023-02-19
-url: /ultimate-linux-gaming-guide/
+url: /ultimate-linux-gaming-guide
 image: images/2023/gaming-guide/gaming.jpg
 categories:
   - Linux

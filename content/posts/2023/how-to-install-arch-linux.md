@@ -3,7 +3,7 @@ title: "How to install Arch Linux"
 
 date: 2023-02-21
 url: /how-to-install-arch-linux
-image: images/2023/how-to-install-arch-linux/install-arch-linux-featured-800x450.webp
+image: images/2023/how-to-install-arch-linux/install-arch-linux-featured.png
 categories:
   - Linux
 tags:
@@ -93,7 +93,7 @@ Stick to balenaEtcher if you are comfortable with a GUI.
 Once you have created a live USB for Arch Linux, shut down your PC. Plugin your USB and boot your system. While booting keep pressing F2, F10 or F12 key (depending upon your system) to go into boot settings.
 
 Here, select to boot from USB or removable disk. Once you do that and the system boots, you should see an option like this:
-![](/images/2023/how-to-install-arch-linux//Arch-Linux-Boot-Screen-800x611.webp)
+![](/images/2023/how-to-install-arch-linux//Arch-Linux-Boot-Screen.png)
 
 Select Boot Arch Linux (x86_64). After various checks, Arch Linux will boot to the login prompt with the root user.
 
@@ -152,12 +152,12 @@ If this directory exists, you have a UEFI enabled system. You should follow the 
 If you have a UEFI system, you must create an EFI partition at the beginning of your disk. Otherwise, skip this step.
 
 When you enter n, it will ask you to choose a disk number, enter 1. Stay with the default block size, when it asks for the partition size, enter +512M.
-![](/images/2023/how-to-install-arch-linux/fdisk_new_efi-800x290.webp)
+![](/images/2023/how-to-install-arch-linux/fdisk_new_efi.png)
 
 One important steps is to change the type of the EFI partition to EFI System (instead of Linux system).
 
 Enter t to change type. Enter L to see all the partition types available and then enter its corresponding number to the EFI system.
-![](/images/2023/how-to-install-arch-linux/Change-type-of-EFI-System-Partition-800x659.webp)
+![](/images/2023/how-to-install-arch-linux/Change-type-of-EFI-System-Partition.png)
 ## Create root partition
 You need to create root partition for both UEFI and legacy systems.
 
@@ -166,7 +166,7 @@ The common partitioning practice was/is to create root, swap and home partitions
 So, in this approach, we’ll have a single root partition, no swap, no home.
 
 While you are in the fdisk command, press n to create a new partition. It will automatically give it partition number 2. This time keep on pressing enter to allocate entire remaining disk space to the root partition.
-![](/images/2023/how-to-install-arch-linux/New-_Partition-800x246.webp)
+![](/images/2023/how-to-install-arch-linux/New-_Partition.png)
 
 When you are done with the disk partitioning, enter w command to write the changes to the disk and exit out of fdisk command.
 
@@ -286,7 +286,7 @@ Open the file using Vim or Nano editor and uncomment (remove the # from the star
 The command to open the file looks like:
 
 `nano /etc/locale.gen`
-![](/images/2023/how-to-install-arch-linux/localeGen-800x335.webp)
+![](/images/2023/how-to-install-arch-linux/localeGen.png)
 I have used en_GB.UTF-8 (English with Great Britain). Hit Ctrl + X and then Y to save the selection and continue.
 
 Now generate the locale config in the /etc directory file using the below commands one by one:
@@ -384,7 +384,7 @@ Finally, you need to edit the visudo file, specifically the line referring to wh
 It opens in VI editor by default. So we need to force it use nano:
 
 `EDITOR=nano visudo`
-![](/images/2023/how-to-install-arch-linux/visudo-800x273.webp)
+![](/images/2023/how-to-install-arch-linux/visudo.png)
 Save the changes and exit from this file.
 
 ## Step 11: Install a desktop environment (GNOME in this case)

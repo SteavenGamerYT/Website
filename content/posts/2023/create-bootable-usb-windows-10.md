@@ -3,7 +3,7 @@ title: "How to create bootable Windows 10 USB install media"
 
 date: 2023-02-21
 url: /create-bootable-usb-windows-10
-image: images/2023/create-bootable-usb-windows-10/windows-10-create-bootable-usb-hero.webp
+image: images/2023/create-bootable-usb-windows-10/windows-10-create-bootable-usb-hero.png
 categories:
   - Windows
 tags:
