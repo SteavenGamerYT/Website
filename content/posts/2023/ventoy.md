@@ -71,7 +71,7 @@ One of the main features that sets Ventoy apart is its ability to boot from ISO 
 
 Another unique feature of Ventoy is its support for persistent storage. This means that you can use Ventoy to create a live USB with persistent storage, which allows you to save changes to files and settings on the live USB.
 
-Here are the steps to use Ventoy to create a live USB of Ubuntu:
+Here are the steps to use Ventoy to create a install usb of Windows:
 
 1. Download the Ventoy-VERSION-linux.tar.gz.
 
