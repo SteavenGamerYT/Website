@@ -73,6 +73,6 @@ To use Rufus to create a bootable media to install Windows 10 from USB on UEFI o
 
 Once you complete the steps, you can boot and install Windows 10 on computers running on UEFI or BIOS, depending on your firmware.
 
-## Walkthrough Video
+## Manually installing Windows 10 in UEFI Video
 
-{{< youtube 11111111 >}}
+{{< youtube XlDqsG-N4_c >}}
