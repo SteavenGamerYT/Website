@@ -3,7 +3,7 @@ title: "How to install Arch Linux"
 
 date: 2023-02-21
 url: /how-to-install-arch-linux
-image: images/2023/how-to-install-arch-linux/archlinux.png
+image: https://itsfoss.com/content/images/wordpress/2017/12/install-arch-linux-featured-800x450.png
 categories:
   - Linux
 tags:
