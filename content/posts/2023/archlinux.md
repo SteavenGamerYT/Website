@@ -241,13 +241,13 @@ Since you have all the things ready, it’s time to finally install the Arch Lin
 
 Do you remember the name of the root partition? Use it to mount it:
 
-**mount /dev/sda2 /mnt**
+`mount /dev/sda2 /mnt`
 
 Note that this is valid for UEFI systems, you will have to use /dev/sda1 in non-UEFI systems.
 
 With root mounted, it’s time to use the wonderful pacstrap script to install all the necessary packages:
 
-**pacstrap /mnt base linux linux-firmware vim nano**
+`pacstrap /mnt base linux linux-firmware vim nano`
 
 It will take some time to download and install these packages. If the downloads get interrupted, no need to panic. You can run the above command once again and it resumed the download.
 
