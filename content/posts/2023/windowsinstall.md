@@ -33,7 +33,9 @@ To create a bootable USB of Windows 10, use these steps:
 8. Select the “USB flash drive” option to create the bootable USB installation media.
 ![](/images/2023/create-bootable-usb-windows-10/usb-media-creation-tool-windows-10_2020.webp)
 9. Click the Next button.
+
 10. Select the USB flash drive from the list, but ensure it doesn’t have any important files, as this process will erase everything on it.
+
 11. Click the Finish button.
 
 ## Create Windows 10 bootable USB from Rufus
@@ -47,7 +49,7 @@ To use Rufus to create a bootable media to install Windows 10 from USB on UEFI o
 7. Click the Close button again to close the app.
 8. Reopen the Rufus tool.
 9. Under the “Device” section, use the drop-down menu, and select the USB flash drive to create the bootable media.
-Quick tip: You need to connect a USB flash drive with at least 8GB of storage. You may need to restart the tool if you do not see the device on the list.
+**Quick tip: You need to connect a USB flash drive with at least 8GB of storage. You may need to restart the tool if you do not see the device on the list.**
 10. Under the “Boot selection” section, use the drop-down menu and select the “Disk or ISO image” option.
 11. Click the down arrow button on the right and select the Download option.
 ![](/images/2023/create-bootable-usb-windows-10/rufus-2023-windows-10-iso-download-option.webp)
