@@ -26,6 +26,7 @@ To create a bootable USB of Windows 10, use these steps:
 5. Select the “Create installation media (USB flash drive, DVD, or ISO file) for another PC” option.
 ![](/images/2023/create-bootable-usb-windows-10/media-cration-tool-usb-other-pc_.webp)
 6. Click the Next button.
+
 7.Click the Next button again.
 
 Quick note: If you are about to create a Windows 10 USB for another device, clear the “Use the recommended options for this PC” option to select the correct language, architecture, and edition as necessary.
