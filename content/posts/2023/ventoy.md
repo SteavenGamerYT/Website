@@ -3,13 +3,16 @@ title: "How to Use Ventoy to Create a Multiboot USB"
 
 date: 2023-02-21
 url: /how-to-use-ventoy-to-create-a-multiboot-usb
-image: images/2023/how-to-use-ventoy-to-create-a-multiboot-usb/ventoy.png
+image: images/2023/how-to-use-ventoy-to-create-a-multiboot-usb/ventoy.jpg
 categories:
   - Windows
+  - Linux
 tags:
   - Windows
   - Windows 10
   - Windows 11
+  - Linux
+  - Fedora
 draft: false
 ---
 Ventoy is a free tool for creating bootable USB drives. It allows you to copy an ISO file to a USB drive and then boot from the USB drive.
