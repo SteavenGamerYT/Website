@@ -14,6 +14,6 @@ tags:
 draft: false
 ---
 
-SUS JUST FRINED HIM TO BE LIKE HIM
+## SUS JUST FRINED HIM TO BE LIKE HIM
 
 `Galindaan#0390` DISCORD PLS
