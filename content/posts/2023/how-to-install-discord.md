@@ -3,7 +3,7 @@ title: "How to Install Discord"
 
 date: 2023-02-22
 url: /how-to-install-discord
-image: images/2023/discord.png
+image: images/discord.png
 categories:
   - linux
   - windows
