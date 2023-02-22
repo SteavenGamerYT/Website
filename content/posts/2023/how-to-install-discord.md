@@ -16,12 +16,7 @@ tags:
 draft: false
 ---
 
-## How to install Discord
-
-
 ## Windows
-
-HREAM
 
 
 Winget `winget install --id Discord.Discord`
