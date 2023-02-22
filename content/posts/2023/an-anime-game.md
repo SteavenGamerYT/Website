@@ -26,13 +26,7 @@ draft: false
 Installing the game
 
 
-<!DOCTYPE html>
-<html>
-<body>
-<img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_wine.png">
-</body>
-</html>
-
+![](https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_wine.png)
 
 So frist open the app image and click install wine and wait
 
@@ -40,13 +34,7 @@ So frist open the app image and click install wine and wait
 Copying the game from Windows
 
 
-<!DOCTYPE html>
-<html>
-<body>
-<img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_install.png">
-</body>
-</html>
-
+![](https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_install.png)
 
 when it shows that, that means its the time to copy it from windows
 
@@ -65,9 +53,4 @@ and paste it to  `/home/(your username)/.local/share/anime-game-launcher/game/dr
 Game Installed
 
 
-<!DOCTYPE html>
-<html>
-<body>
-<img src="https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_start.png">
-</body>
-</html>
+![](https://github.com/SteavenGamerYT/steavengameryt.github.io/raw/main/game_start.png)
