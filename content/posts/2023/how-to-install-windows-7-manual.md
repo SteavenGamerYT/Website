@@ -9,7 +9,7 @@ categories:
 tags:
   - Windows
   - Windows 7
-draft: false
+featured: true
 ---
 
 <!--more-->
