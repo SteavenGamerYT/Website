@@ -7,6 +7,7 @@ image: images/2023/windows7.jpg
 categories:
   - Windows
 tags:
+  - Windows
   - Windows 7
 draft: false
 ---
