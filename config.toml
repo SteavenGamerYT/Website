@@ -134,7 +134,7 @@ icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
 link = "https://github.com/steavengameryt"
 [[params.social]]
 icon = "fas fa-rss" # Fontawesome icon pack https://fontawesome.com/icons
-link = "http://arabcraft.ddns.net:1313/rss/"
+link = "http://arabcraft.ddns.net/rss/"
 
 ####################### Banner #######################################
 [Languages.en.banner]
