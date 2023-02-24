@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "http://arabcraft.ddns.net:1313/"
+baseURL = "http://arabcraft.ddns.net"
 title = "SteavenGamerYT | Hream"
 # theme
 theme = "northendlab"
