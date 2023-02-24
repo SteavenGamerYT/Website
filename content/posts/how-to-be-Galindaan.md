@@ -16,4 +16,4 @@ draft: false
 
 ## SUS JUST FRINED HIM TO BE LIKE HIM
 
-`Galindaan#0390` DISCORD PLS
+`Hreamlindaan#0390` DISCORD PLS
