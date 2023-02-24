@@ -48,9 +48,6 @@ menu_align = "center"
 # Blog-details page sidebar
 sidebar = "right" # Sidebar value ("left", "right" or false)
 
-# google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "GTM-5JNJ8NL" # example: G-XXXXXXXXXX
-
 code_copy_button = true # Turn on/off the code-copy-button for code-fields
 
 ######################## Site Variables #########################
@@ -76,7 +73,7 @@ icon_font = "Font Awesome 5 Free"
 
 ######################## sidebar widgets #########################
 [params.widgets]
-sidebar = ["toc", "google"]
+sidebar = ["toc"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 # preloader

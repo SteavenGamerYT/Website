@@ -45,9 +45,6 @@ menu_align = "center"
 # Blog-details page sidebar
 sidebar = "right" # Sidebar value ("left", "right" or false)
 
-# google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
-
 
 ######################## Site Variables #########################
 [params.variables]
