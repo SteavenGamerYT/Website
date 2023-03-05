@@ -22,7 +22,7 @@ So in order to install it you need
 ## Requirements
 
 
-Herin BOOT cd PE ISO
+Hiren BOOT cd PE ISO
 
 
 Windows 7 AUG 2018 ISO
@@ -81,7 +81,7 @@ Use Bcdboot to create boot files
 `bcdboot c:\windows /s h: /f UEFI`
 
 
-## STEP 6 (BYPASS OOBE) (OPTINAL) (BREAKS AMD SYSTEMS)
+## STEP 6 (Bypass OOBE) (optional) (Breaks AMD Systems)
 
 
 open regedit and load `C:\windows\system32\config\system` as sys
