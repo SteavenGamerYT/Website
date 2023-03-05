@@ -32,7 +32,7 @@ Windows 7 AUG 2018 ISO
 ## installtion
 
 
-TO INSTALL follow this steps or video later adding text
+TO INSTALL follow this steps or video
 
 
 ## STEP 1
