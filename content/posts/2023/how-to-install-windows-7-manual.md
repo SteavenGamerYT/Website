@@ -83,9 +83,30 @@ Use Bcdboot to create boot files
 
 ## STEP 6 (BYPASS OOBE) (OPTINAL) (BREAKS AMD SYSTEMS)
 
-later adding text
+
+open regedit and load `C:\windows\system32\config\system` as sys
 
 
+go to `Computer\HKEY_LOCAL_MACHINE\SYSTEM\Setup`
+
+
+make Cmdline to `cmd.exe`
+
+
+restart and now cmd should start
+
+
+make user
+
+
+```
+net user SteavenGamerYT /add
+net localgroup users SteavenGamerYT /add
+net localgroup administrators SteavenGamerYT /add
+```
+
+
+now open `regedit` and do as the video adding text later
 ## Walkthrough Video
 
 {{< youtube H303Qb6RLFI >}}
