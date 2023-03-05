@@ -1,5 +1,5 @@
 ---
-title: "Fixing Language Display Problems in Linux"
+title: "Minecraft Download Links"
 
 date: 2023-03-05
 url: /mninecraft
