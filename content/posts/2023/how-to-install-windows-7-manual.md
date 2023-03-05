@@ -55,6 +55,9 @@ DISKPART in cmd  (later adding the way)
 Use Dism to apply the Image
 
 
+` DISM.exe /Apply-Image /ImageFile:install.wim /Index:1 /ApplyDir:D:\`
+
+
 ## STEP 5 (BCDBOOT)
 
 Use Bcdboot to create boot files
