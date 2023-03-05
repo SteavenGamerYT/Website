@@ -62,6 +62,7 @@ create part pri
 format quick
 ASSIGN letter=C
 exit
+``
 
 
 ## STEP 4 (DISM)
