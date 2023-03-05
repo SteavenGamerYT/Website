@@ -47,7 +47,21 @@ locate the windows 7 iso letter
 
 ## STEP 3 (DISKPART)
 
-DISKPART in cmd  (later adding the way)
+DISKPART in cmd
+
+
+```
+diskpart
+sel disk 0
+clean
+convert gpt
+create part efi size=512
+foramt fs=fat32
+ASSIGN letter=h
+create part pri
+format quick
+ASSIGN letter=C
+exit
 
 
 ## STEP 4 (DISM)
@@ -55,12 +69,15 @@ DISKPART in cmd  (later adding the way)
 Use Dism to apply the Image
 
 
-` DISM.exe /Apply-Image /ImageFile:install.wim /Index:1 /ApplyDir:D:\`
+`DISM.exe /Apply-Image /ImageFile:install.wim /Index:1 /ApplyDir:C:\`
 
 
 ## STEP 5 (BCDBOOT)
 
 Use Bcdboot to create boot files
+
+
+`bcdboot c:\windows /s h: /f UEFI`
 
 
 ## STEP 6 (BYPASS OOBE) (OPTINAL) (BREAKS AMD SYSTEMS)
