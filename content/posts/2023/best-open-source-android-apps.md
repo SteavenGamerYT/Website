@@ -53,7 +53,7 @@ Simple Gallery: https://github.com/SimpleMobileTools/Simple-Gallery
 Simple Camara: https://github.com/SimpleMobileTools/Simple-Camera
 
 
-Simple Calendar: https://github.com/SimpleMobileTools/https://github.com/SimpleMobileTools/Simple-Gallery
+Simple Calendar: https://github.com/SimpleMobileTools/Simple-Gallery
 
 
 Simple Contacts: https://github.com/SimpleMobileTools/Simple-Contacts
