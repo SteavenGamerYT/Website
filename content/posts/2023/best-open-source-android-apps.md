@@ -14,34 +14,34 @@ draft: false
 ## Maps
 
 
-OsmAnd: https://osmand.net/
+OsmAnd: https://osmand.net
 
 
-MAPS.ME: https://maps.me/
+MAPS.ME: https://maps.me
 
 
 ## Launchers
 
 
-Lawnchair 2: https://lawnchair.app/
+Lawnchair 2: https://lawnchair.app
 
 
 ## Mail Client
 
 
-K-9 Mail: https://k9mail.app/
+K-9 Mail: https://k9mail.app
 
 
 ## Chat Apps
 
 
-Telgram: https://telegram.org/
+Telgram: https://telegram.org
 
 
 ## PLAY STORE replacement
 
 
-F-Droid: https://f-droid.org/en/
+F-Droid: https://f-droid.org/en
 
 
 # SIMPLE APPS (best THO)
