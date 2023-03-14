@@ -17,7 +17,7 @@ draft: false
 Fixing Language Display Problems in Linux
 
 
-So in order to fix it you need to have gonme-software installed
+So in order to fix it you need to have gnome-software installed
 
 
 ##  Installing Gnome-software
@@ -35,10 +35,10 @@ to install it run in terminal
 `sudo pacman -S gnome-software`
 
 
-##  Installing Language
+##  Installing Languages
 
 
-open gnome-software and click locztitions
+open gnome-software and click localization
 
 
 ![](https://github.com/SteavenGamerYT/Website/raw/main/content/images/2023/lang/lang1.png)

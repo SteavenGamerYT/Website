@@ -24,7 +24,7 @@ YES THIS HOW I GET ***WINDOWS*** ON ***LINUX*** pls do it
 ## Requirements
 
 
-Virt Mnager and KVM
+Virt Manager and KVM
 
 
 Supported VMs CPU

@@ -39,7 +39,7 @@ Copying the game from Windows
 when it shows that, that means its the time to copy it from windows
 
 
-open Genshin Impact that you copyed from windows
+open Genshin Impact that you copied from windows
 
 
 copy from it Genshin Impact Game
