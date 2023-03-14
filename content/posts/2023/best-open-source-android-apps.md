@@ -44,7 +44,7 @@ Telgram: https://telegram.org
 F-Droid: https://f-droid.org/en
 
 
-# SIMPLE APPS (best THO)
+## SIMPLE APPS (best THO)
 
 
 Simple Gallery: https://github.com/SimpleMobileTools/Simple-Gallery
