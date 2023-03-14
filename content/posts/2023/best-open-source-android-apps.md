@@ -20,13 +20,13 @@ OsmAnd: https://osmand.net/
 MAPS.ME: https://maps.me/
 
 
-## Lunchers
+## Launchers
 
 
 Lawnchair 2: https://lawnchair.app/
 
 
-## Mail Clinet
+## Mail Client
 
 
 K-9 Mail: https://k9mail.app/
