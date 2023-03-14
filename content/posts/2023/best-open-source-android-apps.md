@@ -3,7 +3,7 @@ title: "Best OPEN SOURCE Android APPS"
 
 date: 2023-03-14
 url: /best-open-source-android-apps/
-image: images/2023-thumbs/my-first-post.jpg
+image: images/2023/android.jpeg
 categories:
   - Android
 tags:
