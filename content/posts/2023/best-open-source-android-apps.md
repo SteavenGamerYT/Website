@@ -50,4 +50,19 @@ F-Droid: https://f-droid.org/en
 Simple Gallery: https://github.com/SimpleMobileTools/Simple-Gallery
 
 
-Simple Camarea: https://github.com/SimpleMobileTools/Simple-Camera
+Simple Camara: https://github.com/SimpleMobileTools/Simple-Camera
+
+
+Simple Calendar: https://github.com/SimpleMobileTools/https://github.com/SimpleMobileTools/Simple-Gallery
+
+
+Simple Contacts: https://github.com/SimpleMobileTools/Simple-Contacts
+
+
+Simple File Manager: https://github.com/SimpleMobileTools/Simple-File-Manager
+
+
+Simple Notes: https://github.com/SimpleMobileTools/Simple-Notes
+
+
+Simple Music Player: https://github.com/SimpleMobileTools/Simple-Music-Player
