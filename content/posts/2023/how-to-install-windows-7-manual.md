@@ -37,7 +37,7 @@ TO INSTALL follow this steps or video
 
 ## STEP 1
 
-boot to herin boot cd 
+boot to hiren boot cd 
 
 
 ## STEP 2
