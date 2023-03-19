@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "http://arabcraft.ddns.net"
+baseURL = "https://boisterous-toffee-60cc83.netlify.app"
 title = "SteavenGamerYT | Hream"
 # theme
 theme = "northendlab"
@@ -131,7 +131,7 @@ icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
 link = "https://github.com/steavengameryt"
 [[params.social]]
 icon = "fas fa-rss" # Fontawesome icon pack https://fontawesome.com/icons
-link = "http://arabcraft.ddns.net/rss/"
+link = "https://boisterous-toffee-60cc83.netlify.app/rss/"
 
 ####################### Banner #######################################
 [Languages.en.banner]
