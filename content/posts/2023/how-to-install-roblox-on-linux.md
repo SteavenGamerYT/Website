@@ -2,7 +2,7 @@
 title: "How to install Roblox on Linux"
 
 date: 2023-04-01
-url: /how-to-install-roblox-on-linux/
+url: /how-to-install-roblox-on-linux
 image: images/roblox.png
 categories:
   - Linux
