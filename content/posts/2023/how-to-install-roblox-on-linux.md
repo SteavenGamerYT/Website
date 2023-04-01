@@ -17,13 +17,13 @@ draft: false
 So to play roblox on linux, you need to use **grapejuice**
 
 ## System Requrements
-Ubuntu 22.04 or higher
+**Ubuntu 22.04 or higher**
 
-Fedora 36 or Higher
+**Fedora 36 or Higher**
 
-Arch Linux UP TO Date
+**Arch Linux UP TO Date**
 
-and Vulkan compatable GPU
+**and Vulkan compatable GPU**
 
 ## Installtion
 
