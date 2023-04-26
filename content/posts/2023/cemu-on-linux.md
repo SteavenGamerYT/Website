@@ -72,4 +72,4 @@ then Download the Rom and Update And DLC
 then unzip them
 
 
-Open Yuzu and click Install then chose the rom follder then do that for update and dlc
+Open Cemu and click Install then chose the rom follder then do that for update and dlc
