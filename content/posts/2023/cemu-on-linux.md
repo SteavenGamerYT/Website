@@ -2,7 +2,7 @@
 title: "How to install Cemu on Linux"
 
 date: 2023-04-27
-url: /cemu-on-linu/
+url: /cemu-on-linux/
 image: images/2023-thumbs/my-first-post.jpg
 categories:
   - Linux
