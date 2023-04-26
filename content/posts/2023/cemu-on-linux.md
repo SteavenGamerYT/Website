@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "How to install Cemu on Linux"
 
 date: 2023-04-27
 url: /cemu-on-linu/
