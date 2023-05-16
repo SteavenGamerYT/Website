@@ -19,11 +19,17 @@ draft: false
 ## REQUIREMENTS
 
 16gb of ram
+
 more then 8cores cpu
+
 2 displays
+
 2 keyboards
+
 2 mouses
+
 ARCH LINUX
+
 WAYLAND and KDE
 
 ## Packages
