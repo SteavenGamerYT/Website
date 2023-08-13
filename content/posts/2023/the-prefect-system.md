@@ -3,7 +3,7 @@ title: "The Perfect System"
 
 date: 2023-08-13
 url: /the-perfect-system/
-image: images/2023/debain-vs-arch.jpg.jpg
+image: images/2023/debain-vs-arch.jpg
 categories:
   - Linux
 tags:
