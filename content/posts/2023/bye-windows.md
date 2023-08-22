@@ -37,6 +37,16 @@ Arch with kde have been really well.
 ## Configreing wayland on My gaming laptop
 While I have got wayland working a lot of times, in Fedora mostly, None in arch, I dont like fedora, since it doesn't offer everything unlike arch, Like I dont have aur in fedora, What about nix-env?, Nah, It doesn't support Nvidia gpus sadly.
 
+Update: I have fixed Wayland on Arch!
+
+Step 1: Open System Settins.
+
+Step 2: Go to Display and Monitor.
+
+Step 3: Go to Compositor.
+
+Step 4: Change Latency Force smoothest animations from to Balance of latency and smoothness.
+
 ## Desktop Environments
 While I do like gnome a lot, I have to say Kde is sold, It works so much better then Gnome in most cases.
 
