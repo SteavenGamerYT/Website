@@ -65,6 +65,8 @@ Well I have made a guide for that its pretty outdated and I will update soon as 
 
 https://boisterous-toffee-60cc83.netlify.app/ultimate-linux-gaming-guide
 
+Edit: Its now Up to date and Safe to use!
+
 ## Ending
 So to end this up, This is my Laptops.
 
