@@ -45,7 +45,7 @@ Step 2: Go to Display and Monitor.
 
 Step 3: Go to Compositor.
 
-Step 4: Change Latency Force smoothest animations from to Balance of latency and smoothness.
+Step 4: Change from Latency Force smoothest animations to Balance of latency and smoothness.
 
 ## Desktop Environments
 While I do like gnome a lot, I have to say Kde is sold, It works so much better then Gnome in most cases.
