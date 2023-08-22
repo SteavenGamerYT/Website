@@ -56,7 +56,7 @@ Well I have made a guide for that its pretty outdated and I will update soon as 
 https://boisterous-toffee-60cc83.netlify.app/ultimate-linux-gaming-guide
 
 ## Ending
-So to end this up, This is my Laptops
+So to end this up, This is my Laptops.
 
 ### Gaming Laptop
 ![gaming-laptop-screenshot](/images/2023/bye-windows/gaming-laptop-screenshot.png)
@@ -65,5 +65,5 @@ So to end this up, This is my Laptops
 ![touch-screen-laptop-screenshot](/images/2023/bye-windows/touch-screen-laptop-screenshot.png)
 
 # BTW
-BTW I STILL HAVE WINDOWS INSTALLED On my GAMING LAPTOP AS DUAL BOOT
+BTW I STILL HAVE WINDOWS INSTALLED On my GAMING LAPTOP AS DUAL BOOT.
 ![windows-disks-gaming-laptop](/images/2023/bye-windows/windows-disks-gaming-laptop.png)
