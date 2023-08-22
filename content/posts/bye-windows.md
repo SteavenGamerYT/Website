@@ -64,6 +64,6 @@ So to end this up, This is my Laptops.
 ### Touch Screen Laptop
 ![touch-screen-laptop-screenshot](/images/2023/bye-windows/touch-screen-laptop-screenshot.png)
 
-# BTW
+## BTW
 BTW I STILL HAVE WINDOWS INSTALLED On my GAMING LAPTOP AS DUAL BOOT.
 ![windows-disks-gaming-laptop](/images/2023/bye-windows/windows-disks-gaming-laptop.png)
