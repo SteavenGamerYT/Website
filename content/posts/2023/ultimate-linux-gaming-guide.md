@@ -119,10 +119,6 @@ flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.f
 flatpak install com.heroicgameslauncher.hgl com.vysp3r.ProtonPlus
 ```
 
-### Arch-Based Distros
-
-`yay -Syu steam lutris gamemode lib32-gamemode mangohud lib32-mangohud goverlay protonplus wine-stagging wine-mono wine-gecko winetricks protontricks heroic-games-launcher-bin`
-
 ### Fedora
 
 ```sh
@@ -130,4 +126,9 @@ sudo dnf install steam lutris mangohud goverlay flatpak
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install com.heroicgameslauncher.hgl com.vysp3r.ProtonPlus
 ```
+
+### Arch-Based Distros
+
+`yay -Syu steam lutris gamemode lib32-gamemode mangohud lib32-mangohud goverlay protonplus wine-stagging wine-mono wine-gecko winetricks protontricks heroic-games-launcher-bin`
+
 ***
