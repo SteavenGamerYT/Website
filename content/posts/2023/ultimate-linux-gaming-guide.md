@@ -68,7 +68,7 @@ Just like any operating system, having the latest drivers helps with performance
 
 Should be Preinstalled In Lastest Ubuntu 22.04 lts or Linux Mint 21 or POP OS 22.04 or Fedora 38.
 
-If Its not Preinstalled, Installing anything that wants them will get them Installed.
+If Its not Preinstalled, Then installing anything that wants them will get them Installed.
 
 
 ![nVidia](/images/nvidia-title.png)
