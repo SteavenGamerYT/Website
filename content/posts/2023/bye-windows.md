@@ -39,7 +39,7 @@ While I have got wayland working a lot of times, in Fedora mostly, None in arch,
 
 Update: I have fixed Wayland on Arch!
 
-Step 1: Open System Settins.
+Step 1: Open System Settings.
 
 Step 2: Go to Display and Monitor.
 
