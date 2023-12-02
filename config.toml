@@ -134,15 +134,13 @@ icon = "fas fa-rss" # Fontawesome icon pack https://fontawesome.com/icons
 link = "https://boisterous-toffee-60cc83.netlify.app/rss/"
 
 ####################### Banner #######################################
-[Languages.en.banner]
-bg_image = "images/bannerbackground.png"
-title = "<strong>SteavenGamerYT</strong><br>How To Articles, <br>Image Downloads,<br> Tech Guides."
-image = "images/operating systems.jpg"
-
-######################## About Me Widget ###############################
-[Languages.en.about_me]
-title = "SteavenGamerYT"
-bio = ""
+[Languages.en]
+[Languages.en.params]
+    banner_bg_image = "images/bannerbackground.png"
+    banner_title = "<strong>SteavenGamerYT</strong><br>How To Articles, <br>Image Downloads,<br> Tech Guides."
+    banner_image = "images/operating systems.jpg"
+    about_me_title = "SteavenGamerYT"
+    about_me_bio = ""
 
 [[params.social_profile]]
 icon = "fab fa-github" # Fontawesome icon pack https://fontawesome.com/icons
