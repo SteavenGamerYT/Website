@@ -24,11 +24,11 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 ######################### Default Parameters ###########################
 [params]
 # logo
-logo = "images/2897ec5d34936e14686134a874435197.jpg"
+logo = "images/yma3c89hgvob1.jpg"
 logoWidth = 121
 logoHeight = 50
 # favicon
-favicon = "images/2897ec5d34936e14686134a874435197.jpg"
+favicon = "images/yma3c89hgvob1.jpg"
 # meta data
 author = "SteavenGamerYT"
 description = "Having Fun with Technology"
