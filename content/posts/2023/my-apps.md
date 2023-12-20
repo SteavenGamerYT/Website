@@ -93,3 +93,14 @@ Parabolic ([org.nickvision.tubeconverter](https://flathub.org/apps/org.nickvisio
 Syncthing ([syncthing](https://archlinux.org/packages/extra/x86_64/syncthing) [syncthing-gtk](https://aur.archlinux.org/packages/syncthing-gtk) [syncthingtray](https://aur.archlinux.org/packages/syncthingtray))
 
 
+### Office
+
+LibreOffice ([libreoffice-still]())
+
+OnlyOffice ([onlyoffice-bin]())
+
+Okular ([Okular]())
+
+## Contant Creration
+
+OBS Studio ([com.obsproject.Studio]() [com.obsproject.Studio.Plugin.OBSVkCapture]())
