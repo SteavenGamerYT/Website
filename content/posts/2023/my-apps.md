@@ -72,7 +72,7 @@ Firefox ([firefox](https://archlinux.org/packages/extra/x86_64/firefox))
 
 Epiphany ([epiphany](https://archlinux.org/packages/extra/x86_64/epiphany))
 
-Thunderbird (thunderbird[](https://archlinux.org/packages/extra/x86_64/thunderbird))
+Thunderbird ([thunderbird](https://archlinux.org/packages/extra/x86_64/thunderbird))
 
 Discord ([discord](https://archlinux.org/packages/extra/x86_64/discord))
 
@@ -95,12 +95,73 @@ Syncthing ([syncthing](https://archlinux.org/packages/extra/x86_64/syncthing) [s
 
 ### Office
 
-LibreOffice ([libreoffice-still]())
+LibreOffice ([libreoffice-still](https://archlinux.org/packages/extra/x86_64/libreoffice-still))
 
-OnlyOffice ([onlyoffice-bin]())
+OnlyOffice ([onlyoffice-bin](https://aur.archlinux.org/packages/onlyoffice-bin))
 
-Okular ([Okular]())
+Okular ([okular](https://archlinux.org/packages/extra/x86_64/okular))
 
-## Contant Creration
+### Contant Creration
 
-OBS Studio ([com.obsproject.Studio]() [com.obsproject.Studio.Plugin.OBSVkCapture]())
+OBS Studio ([com.obsproject.Studio](https://flathub.org/apps/com.obsproject.Studio) [com.obsproject.Studio.Plugin.OBSVkCapture]() [obs-vkcapture-git](https://aur.archlinux.org/packages/obs-vkcapture-git) [lib32-obs-vkcapture-git](https://pkgs.org/download/lib32-obs-vkcapture-git))
+
+Kdenlive ([kdenlive](https://archlinux.org/packages/extra/x86_64/kdenlive))
+
+Davinci Resolve ([bruh idk its name for now](https://www.blackmagicdesign.com/products/davinciresolve))
+
+Gimp ([gimp-git](https://aur.archlinux.org/packages/gimp-git))
+
+Krita ([krita](https://archlinux.org/packages/extra/x86_64/krita))
+
+Audacity ([audacity](https://archlinux.org/packages/extra/x86_64/audacity))
+
+### Multimedia
+
+Mpv ([mpv](https://archlinux.org/packages/extra/x86_64/mpv))
+
+Celluloid ([celluloid](https://archlinux.org/packages/extra/x86_64/celluloid))
+
+VLC ([vlc](https://archlinux.org/packages/extra/x86_64/vlc))
+
+Audacious ([audacious](https://archlinux.org/packages/extra/x86_64/audacious))
+
+Gwenview ([gwenview](https://archlinux.org/packages/extra/x86_64/gwenview))
+
+### System Tools
+
+Konsole ([konsole](https://archlinux.org/packages/extra/x86_64/konsole))
+
+Pavucontrol ([pavucontrol](https://archlinux.org/packages/extra/x86_64/pavucontrol))
+
+Syncthing ([syncthing](https://archlinux.org/packages/extra/x86_64/syncthing) [syncthing-gtk](https://aur.archlinux.org/packages/syncthing-gtk) [syncthingtray](https://aur.archlinux.org/packages/syncthingtray))
+
+Plasma System Monitor ([plasma-systemmonitor](https://archlinux.org/packages/extra/x86_64/plasma-systemmonitor))
+
+Gnome System Monitor ([gnome-system-monitor](https://archlinux.org/packages/extra/x86_64/gnome-system-monitor))
+
+Gnome Disk Utility ([gnome-disk-utility](https://archlinux.org/packages/extra/x86_64/gnome-disk-utility))
+
+GNOME Partition Editor ([gparted](https://archlinux.org/packages/extra/x86_64/gparted)  [dosfstools](https://archlinux.org/packages/core/x86_64/dosfstools) [exfatprogs](https://archlinux.org/packages/extra/x86_64/exfatprogs) [btrfs-progs](https://archlinux.org/packages/core/x86_64/btrfs-progs))
+
+Gnome Disk Usage Analyzer ([baobab](https://archlinux.org/packages/extra/x86_64/baobab))
+
+Bleachbit ([bleachbit](https://archlinux.org/packages/extra/any/bleachbit))
+
+Discover ([discover](https://archlinux.org/packages/extra/x86_64/discover) [packagekit](https://archlinux.org/packages/extra/x86_64/packagekit) [packagekit-qt5](https://archlinux.org/packages/extra/x86_64/packagekit-qt5) [packagekit-qt6](https://archlinux.org/packages/extra/x86_64/packagekit-qt6))
+
+Dolphin ([dolphin](https://archlinux.org/packages/extra/x86_64/dolphin))
+
+Ark ([ark](https://archlinux.org/packages/extra/x86_64/ark))
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arch Linux Wiki Viewer</title>
+</head>
+<body>
+    <iframe src="https://wiki.archlinux.org/" width="100%" height="1000px" frameborder="0"></iframe>
+</body>
+</html>
