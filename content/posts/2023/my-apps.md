@@ -261,3 +261,6 @@ Shell ([setup.exe](https://nilesoft.org/download))
 
 Explorer Patcher ([ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases))
 
+CrystalDiskInfo ([CrystalDiskInfoX_x_x.exe](https://crystalmark.info/redirect.php?product=CrystalDiskInfoInstaller))
+
+CrystalDiskMark ([CrystalDiskMarkX_x_x.exe](https://crystalmark.info/redirect.php?product=CrystalDiskMarkInstaller))
