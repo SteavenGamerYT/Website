@@ -1,6 +1,5 @@
 ---
 title: "My Apps"
-
 date: 2023-12-20
 url: /my-apps/
 image: images/2023-thumbs/my-first-post.jpg
@@ -153,15 +152,109 @@ Dolphin ([dolphin](https://archlinux.org/packages/extra/x86_64/dolphin))
 
 Ark ([ark](https://archlinux.org/packages/extra/x86_64/ark))
 
+### Download
+<iframe src="https://archlinux.org/download" width="100%" height="500px"></iframe>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arch Linux Wiki Viewer</title>
-</head>
-<body>
-    <iframe src="https://wiki.archlinux.org/" width="100%" height="1000px" frameborder="0"></iframe>
-</body>
-</html>
+## Windows 11
+
+### Development
+Visual Studio Code ([System Installer x64](https://code.visualstudio.com/docs/?dv=win64))
+
+Visual Studio ([Visual Studio Community Installer](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false))
+
+Notepad++ ([x64](https://notepad-plus-plus.org/downloads))
+
+Github Desktop ([win32](https://central.github.com/deployments/desktop/desktop/latest/win32))
+
+Unity Hub ([UnityHubSetup](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe))
+
+AnyDesk ([win_exe](https://anydesk.com/en/downloads/thank-you?dv=win_exe))
+
+### Games
+
+Epic Games Launcher ([EpicGamesLauncherInstaller.msi](https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi))
+
+Xbox ([XboxInstaller.exe](https://www.xbox.com/en-US/apps/xbox-app-for-pc))
+
+Prism Launcher ([PrismLauncher-Windows-MSVC-Setup-x.x.exe](https://prismlauncher.org/download/))
+
+Minecraft Launcher ([MinecraftInstaller.exe](https://aka.ms/minecraftClientGameCoreWindows))
+
+MSI After burner ([MSIAfterburnerSetup.zip](https://www.msi.com/Landing/afterburner/graphics-cards))
+
+### Interent
+
+Google Chrome ([ChromeSetup.exe](https://www.google.com/chrome))
+
+Firefox ([Firefox Setup x.x.exe](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US))
+
+Microsoft Edge ([MicrosoftEdgeSetup.exe](https://www.microsoft.com/en-us/edge/download))
+
+Thunderbird ([Thunderbird Setup x.x.x.exe](https://download.mozilla.org/?product=thunderbird-latest-SSL&os=win64&lang=en-GB))
+
+Discord ([DiscordSetup.exe](https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64))
+
+Element ([Element Setup.exe](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe))
+
+Telegram ([9NZTWSQNTD0S](https://apps.microsoft.com/detail/9NZTWSQNTD0S?hl=en-US))
+
+WhatsApp ([9NKSQGP7F2NH](https://apps.microsoft.com/detail/9NKSQGP7F2NH?hl=en-us&gl=US))
+
+qBittorrent Enhanced ([qbittorrent_enhanced_x.x.x.x_x64_setup.exe](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases))
+
+Free Download Manager ([fdm_x64_setup.exe](https://files2.freedownloadmanager.org/6/latest/fdm_x64_setup.exe))
+
+### Office
+
+Microsoft Office Deployment Tool ([officedeploymenttool_x-x.exe](https://www.microsoft.com/en-us/download/details.aspx?id=49117))
+
+Okular ([okular-x.x.x-1618-windows-cl-msvc2019-x86_64.exe](https://binary-factory.kde.org/job/Okular_Release_win64))
+
+### Contant Creration
+
+OBS Studio ([OBS-Studio-x.x.x-Full-Installer-x64.exe](https://obsproject.com/download))
+
+Kdenlive ([kdenlive-x.x.x.exe](https://kdenlive.org/en/download))
+
+Davinci Resolve ([bruh idk its name for now](https://www.blackmagicdesign.com/products/davinciresolve))
+
+Gimp ([gimp-x.x.x-setup.exe](https://www.gimp.org/downloads/devel))
+
+Krita ([krita-x64-x.x.x-setup.exe](https://krita.org/en/download/krita-desktop))
+
+Audacity ([audacity-win-x.x.x-64bit.exe](https://www.audacityteam.org/download/windows))
+
+### Multimedia
+
+Mpv ([mpv.install](https://community.chocolatey.org/packages/mpv.install))
+
+VLC ([vlc-x.x.x-win64.exe](https://www.videolan.org/vlc/download-windows.html))
+
+Audacious ([Audacious.MediaPlayer](https://winstall.app/apps/Audacious.MediaPlayer))
+
+Microsoft Photos ([9WZDNCRFJBH4](https://apps.microsoft.com/detail/9WZDNCRFJBH4?hl=en-US&gl=US))
+
+### System Tools
+
+Bleachbit ([BleachBit-x.x.x-setup.exe](https://www.bleachbit.org/download/windows))
+
+NVCleanstall ([NVCleanstall_x.x.x.exe](https://www.techpowerup.com/download/techpowerup-nvcleanstall))
+
+Kaspersky Free Antivirus ([startup.exe](https://www.kaspersky.com/downloads/free-antivirus))
+
+Uninstall Tool ([uninstall_tool_x.x.x.x.zip](https://lrepacks.net/repaki-sistemnyh-programm/77-uninstall-tool-repack-amp-portable.html))
+
+Windows Terminal ([9N0DX20HK701](https://apps.microsoft.com/detail/9N0DX20HK701?hl=en-us&gl=US))
+
+Powershell ([9MZ1SNWT0N5D](https://apps.microsoft.com/detail/9MZ1SNWT0N5D?hl=en-us&gl=US))
+
+Chocolatey ([Chocolatey](https://chocolatey.org/install))
+
+Scoop ([scoop](https://scoop.sh))
+
+Winget ([winget](https://community.chocolatey.org/packages/winget))
+
+WingetUI ([WingetUI.Installer.exe](https://github.com/marticliment/WingetUI/releases))
+
+### Download
+<iframe src="https://www.microsoft.com/software-download/windows11" width="100%" height="500px"></iframe>
