@@ -264,3 +264,7 @@ Explorer Patcher ([ep_setup.exe](https://github.com/valinet/ExplorerPatcher/rele
 CrystalDiskInfo ([CrystalDiskInfoX_x_x.exe](https://crystalmark.info/redirect.php?product=CrystalDiskInfoInstaller))
 
 CrystalDiskMark ([CrystalDiskMarkX_x_x.exe](https://crystalmark.info/redirect.php?product=CrystalDiskMarkInstaller))
+
+Amazon Appstore ([9NJHK44TTKSX](https://apps.microsoft.com/detail/9NJHK44TTKSX?hl=en-US&gl=US))
+
+HP Smart ([9WZDNCRFHWLH](https://apps.microsoft.com/detail/9WZDNCRFHWLH?hl=en-us&gl=US))
