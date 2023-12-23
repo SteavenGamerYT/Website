@@ -106,7 +106,7 @@ OBS Studio ([com.obsproject.Studio](https://flathub.org/apps/com.obsproject.Stud
 
 Kdenlive ([kdenlive](https://archlinux.org/packages/extra/x86_64/kdenlive))
 
-Davinci Resolve ([bruh idk its name for now](https://www.blackmagicdesign.com/products/davinciresolve))
+Davinci Resolve ([DaVinci_Resolve_x.x.x_Linux.zip](https://www.blackmagicdesign.com/products/davinciresolve))
 
 Gimp ([gimp-git](https://aur.archlinux.org/packages/gimp-git))
 
@@ -151,9 +151,6 @@ Discover ([discover](https://archlinux.org/packages/extra/x86_64/discover) [pack
 Dolphin ([dolphin](https://archlinux.org/packages/extra/x86_64/dolphin))
 
 Ark ([ark](https://archlinux.org/packages/extra/x86_64/ark))
-
-### Download
-<iframe src="https://archlinux.org/download" width="100%" height="500px"></iframe>
 
 ## Windows 11
 
@@ -216,7 +213,7 @@ OBS Studio ([OBS-Studio-x.x.x-Full-Installer-x64.exe](https://obsproject.com/dow
 
 Kdenlive ([kdenlive-x.x.x.exe](https://kdenlive.org/en/download))
 
-Davinci Resolve ([bruh idk its name for now](https://www.blackmagicdesign.com/products/davinciresolve))
+Davinci Resolve ([DaVinci_Resolve_x.x.x_Windows.zip](https://www.blackmagicdesign.com/products/davinciresolve))
 
 Gimp ([gimp-x.x.x-setup.exe](https://www.gimp.org/downloads/devel))
 
@@ -256,5 +253,11 @@ Winget ([winget](https://community.chocolatey.org/packages/winget))
 
 WingetUI ([WingetUI.Installer.exe](https://github.com/marticliment/WingetUI/releases))
 
-### Download
-<iframe src="https://www.microsoft.com/software-download/windows11" width="100%" height="500px"></iframe>
+NanaZip ([9N8G7TSCL18R](https://apps.microsoft.com/detail/9N8G7TSCL18R?hl=en-US&gl=US))
+
+TeraCopy ([teracopy.exe](https://www.codesector.com/files/teracopy.exe))
+
+Shell ([setup.exe](https://nilesoft.org/download))
+
+Explorer Patcher ([ep_setup.exe](https://github.com/valinet/ExplorerPatcher/releases))
+
