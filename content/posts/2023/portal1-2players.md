@@ -5,6 +5,7 @@ url: /portal1-2players/
 image: images/2023-thumbs/my-first-post.jpg
 categories:
   - Linux
+  - Windows
 tags:
   - Ubuntu
   - Arch Linux
