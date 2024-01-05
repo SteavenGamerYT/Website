@@ -162,3 +162,15 @@ to change it use
 `xdg-settings set default-web-browser google-chrome.desktop`
 
 Replace `google-chrome.desktop` with your file manager .desktop file like for an example `firefox.desktop`
+
+## Torrent / magnet
+
+To check current default one use
+
+`xdg-mime query default x-scheme-handler/magnet`
+
+to change it use
+
+`xdg-mime default org.qbittorrent.qBittorrent.desktop x-scheme-handler/magnet`
+
+Replace `org.qbittorrent.qBittorrent.desktop` with your Torrent appliction .desktop file like for an example `transmission-gtk.desktop`
