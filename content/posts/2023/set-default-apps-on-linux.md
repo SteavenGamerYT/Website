@@ -137,7 +137,7 @@ use it like
 
 `./default-media-player.sh io.github.celluloid_player.Celluloid.desktop`
 
-Replace `io.github.celluloid_player.Celluloid.desktop` with your file manager .desktop file like for an example `mpv.desktop`
+Replace `io.github.celluloid_player.Celluloid.desktop` with your media player .desktop file like for an example `mpv.desktop`
 
 ## File Manager
 To check current default one use
