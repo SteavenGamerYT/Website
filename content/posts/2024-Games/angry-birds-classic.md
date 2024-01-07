@@ -27,7 +27,7 @@ Size: **159.2 MiB**
 ## Torrent Features
 Based of **AngryBirdsInstaller__3.3.0.exe, Rovio release**
 
-Game version: **v3.3.0**;
+Game version: **v3.3.0**
 
 NOTHING ripped, NOTHING re-encoded
 

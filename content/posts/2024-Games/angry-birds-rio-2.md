@@ -27,7 +27,7 @@ Size: **140.8 MiB**
 ## Torrent Features
 Based of **AngryBirdsRioInstaller_2.2.0.exe, Rovio release**
 
-Game version: **v2.2.0**;
+Game version: **v2.2.0**
 
 NOTHING ripped, NOTHING re-encoded
 

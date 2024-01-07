@@ -1,9 +1,9 @@
 ---
-title: "Angry Birds Star Wars"
+title: "Angry Birds Star Space 2"
 
 date: 2024-01-07
-url: /angry-birds-star-wars
-image: images/2024-Games/angry-birds-star-wars.jpeg
+url: /angry-birds-star-space2
+image: images/2024-Games/angry-birds-star-wars2.webp
 categories:
   - Games
 tags:
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024-Games/angry-birds-star-wars.jpeg)
+![](/images/2024-Games/angry-birds-star-wars2.webp)
 
 Genres/Tags: **Old Games, 3D**
 
@@ -19,15 +19,17 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **106.4 MiB**
+Size: **148.7 MiB**
 
 ## Mirrors
-[magnet](magnet:?xt=urn:btih:LVUHYJ3WE7LIOSK7TKQQ4X5JIN3DIJYT&dn=Angry%20Birds%20Star%20Wars)
+[magnet](magnet:?xt=urn:btih:YCHPGVRD5AOHK2JQS42PLX4D4SSZR2IJ&dn=Angry%20Birds%20Space)
 
 ## Torrent Features
-Based of **AngryBirdsStarWarsInstaller_1.5.0.exe, Rovio release**
+Based of **Angry Birds Space Free Download (Update 13/11/2017), IGG-GAMES release**
 
-Game version: **v1.5.0**;
+Crack: **SmartSteamEmu**
+
+Game version: **13/11/2017**
 
 NOTHING ripped, NOTHING re-encoded
 

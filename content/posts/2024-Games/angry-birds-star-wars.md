@@ -1,9 +1,9 @@
 ---
-title: "Angry Birds Seasons"
+title: "Angry Birds Star Wars"
 
 date: 2024-01-07
-url: /angngry-birds-seasons
-image: images/2024-Games/angry-birds-seasons.jpg
+url: /angry-birds-star-wars
+image: images/2024-Games/angry-birds-star-wars.jpeg
 categories:
   - Games
 tags:
@@ -11,7 +11,7 @@ tags:
 draft: false
 ---
 ##
-![](/images/2024-Games/angry-birds-seasons.jpg)
+![](/images/2024-Games/angry-birds-star-wars.jpeg)
 
 Genres/Tags: **Old Games, 3D**
 
@@ -19,15 +19,15 @@ Companies: **Rovio**
 
 Languages: **ENG**
 
-Size: **103.1 MiB**
+Size: **106.4 MiB**
 
 ## Mirrors
-[magnet](magnet:?xt=urn:btih:P72SQR3ZRHIBMUVSLF7424WE4ZNA35AM&dn=Angry%20Birds%20Seasons)
+[magnet](magnet:?xt=urn:btih:LVUHYJ3WE7LIOSK7TKQQ4X5JIN3DIJYT&dn=Angry%20Birds%20Star%20Wars)
 
 ## Torrent Features
-Based of **AngryBirdsSeasonsInstaller_4.0.1.exe, Rovio release**
+Based of **AngryBirdsStarWarsInstaller_1.5.0.exe, Rovio release**
 
-Game version: **v4.0.1**
+Game version: **v1.5.0**
 
 NOTHING ripped, NOTHING re-encoded
 
