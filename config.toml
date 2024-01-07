@@ -180,6 +180,11 @@ name = "Sections"
 hasChildren = true
   
 [[Languages.en.menu.main]]
+    name = "Games"
+    url = "/categories/games"
+    parent = "Sections"
+
+[[Languages.en.menu.main]]
     name = "Android"
     url = "/categories/android"
     parent = "Sections"
@@ -192,11 +197,6 @@ hasChildren = true
 [[Languages.en.menu.main]]
     name = "MacOS"
     url = "/categories/macos"
-    parent = "Sections"
-
-[[Languages.en.menu.main]]
-    name = "Networking"
-    url = "/categories/networking"
     parent = "Sections"
 
 [[Languages.en.menu.main]]
