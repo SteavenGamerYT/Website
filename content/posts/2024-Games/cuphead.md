@@ -12,7 +12,7 @@ draft: false
 ---
 ##
 <audio controls autoplay>
-  <source src="/audio/reloadedinstaller2.mp3" type="audio/mp3">
+  <source src="/audio/cuphead.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
 </audio>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -32,6 +32,9 @@ Size: **5.39 GiB**
 
 # ⠀
 # ⠀
+
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/NN-9SQXoi50" title="Cuphead Launch Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
 <a href="magnet:?xt=urn:btih:Z3SSBPLA6DT34B3UXAL2RF463W6NIS3F&dn=Cuphead" style="color: green;">Magnet</a>
