@@ -11,6 +11,13 @@ tags:
 draft: false
 ---
 ##
+<audio controls autoplay>
+  <source src="/audio/reloadedinstaller2.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 <figure style="float: left; margin-right: 20px;">
   <img src="/images/2024-Games/cuphead.jpg" alt="title: "Cuphead"" style="width: 200px;">
 </figure>
