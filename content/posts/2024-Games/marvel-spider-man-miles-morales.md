@@ -81,7 +81,7 @@ Right click MilesMorales.exe and click properties
 
 ![](/images/2024-Games/marvel-spider-man-miles-morales/5.png)
 
-Add in steam game argements `WINEDLLOVERRIDES="winmm=n,b;" %command%` for fsr 3 mod to work
+Add in steam game argements `WINEDLLOVERRIDES="winmm=n,b" %command%` for fsr 3 mod to work
 
 ![](/images/2024-Games/marvel-spider-man-miles-morales/6.png)
 
