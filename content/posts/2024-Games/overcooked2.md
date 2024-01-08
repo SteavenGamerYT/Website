@@ -21,7 +21,7 @@ Companies: **Ghost Town Games, Team17 Digital**
 
 Language : **RUS/ENG/MULTI12**
 
-Size: **7.92 GiB**
+Size: **7.5 GiB**
 # ⠀
 # ⠀
 # ⠀
@@ -30,11 +30,7 @@ Size: **7.92 GiB**
 <a href="magnet:?xt=urn:btih:JB6LFKNA2TT3SC3IMZPL332EYLI4IZ6D&dn=Overcooked!%202" style="color: green;">Magnet</a>
 
 ## Torrent Features
-Based of **online-fix.me release**
-
-Game version: **Build 01102020**; all DLCs are included and activated
-
-Crack: **online-fix.me**
+Based of **gog version,fitgirl release**
 
 NOTHING ripped, NOTHING re-encoded
 
