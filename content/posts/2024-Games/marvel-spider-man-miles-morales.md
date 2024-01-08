@@ -11,6 +11,31 @@ tags:
 draft: false
 ---
 ##
+<style>
+  body.dark-mode,
+  body.dark-mode main * {
+    background: url('/images/2024-Games/marvel-spider-man-miles-morales.webp') center center fixed no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    color: #f5f5f5;
+  }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var body = document.body;
+        var switcher = document.querySelector('.js-toggle');
+                body.classList.add('dark-mode');
+                // Save user preference in storage
+                localStorage.setItem('darkMode', 'true');
+            
+        });
+</script>
+
+<audio controls autoplay>
+  <source src="/audio/Lecrae-WhereWeComeFrom.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+
 <figure style="float: left; margin-right: 20px;">
   <img src="/images/2024-Games/marvel-spider-man-miles-morales.jpg" alt="Spider-Man: Miles Morales" style="width: 200px;">
 </figure>
@@ -24,6 +49,9 @@ draft: false
 
 **Size:** 56.9 GiB
 # ⠀
+
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Gr5H85CxI58" title="Marvel&#39;s Spider Man: Miles Morales - Official World Premiere Announcement Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Mirrors
 <a href="magnet:?xt=urn:btih:6Z5UERSOYA27EPNPWORGLYUILBK5SVTY&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">Magnet</a>
