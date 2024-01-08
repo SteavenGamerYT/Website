@@ -51,7 +51,7 @@ Audio: **English, French, German, Italian, Spanish**
 
 Change language by renaming **english.txt file** to **other languages**
 
-Size: **7.3 GiB**
+⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Size: **7.3 GiB**
 # ⠀
 
 ## Trailer
