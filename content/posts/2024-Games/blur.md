@@ -11,6 +11,32 @@ tags:
 draft: false
 ---
 ##
+<style>
+  body.dark-mode,
+  body.dark-mode main * {
+    background: url('/images/2024-Games/blur.jpg') center center fixed no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    color: #f5f5f5;
+  }
+</style>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var body = document.body;
+        var switcher = document.querySelector('.js-toggle');
+                body.classList.add('dark-mode');
+                // Save user preference in storage
+                localStorage.setItem('darkMode', 'true');
+            
+        });
+</script>
+
+<audio controls autoplay>
+  <source src="/audio/blur.mp3" type="audio/mp3">
+  Your browser does not support the audio tag.
+</audio>
+
+
 <figure style="float: left; margin-right: 20px;">
   <img src="/images/2024-Games/blur.webp" alt="Blur" style="width: 200px;">
 </figure>
@@ -27,6 +53,9 @@ Change language by renaming **english.txt file** to **other languages**
 
 Size: **7.3 GiB**
 # ⠀
+
+## Trailer
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6UHZLynZFjU" title="Blur - PC | PS3 | Xbox 360 - Freeze official video game trailer HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Mirrors
 <a href="magnet:?xt=urn:btih:5AG5R5HONAPHVOMSMORNO7XU5SELCWW2&dn=Blur" style="color: green;">Magnet</a>
