@@ -12,7 +12,7 @@ draft: false
 ---
 ##
 <figure style="float: left; margin-right: 20px;">
-  <img src="/images/2024-Games/cuphead.jpg" alt="Spider-Man: Miles Morales" style="width: 200px;">
+  <img src="/images/2024-Games/cuphead.jpg" alt="title: "Cuphead"" style="width: 200px;">
 </figure>
 
 Genres/Tags: **Arcade, Run and gun, Side, 2D**
