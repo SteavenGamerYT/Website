@@ -21,7 +21,9 @@ Companies: **Ghost Town Games, Team17 Digital**
 
 Language : **RUS/ENG/MULTI12**
 
-Size: **7.3 GiB**
+Size: **7.92 GiB**
+# ⠀
+# ⠀
 # ⠀
 
 ## Mirrors
@@ -37,20 +39,16 @@ Crack: **online-fix.me**
 NOTHING ripped, NOTHING re-encoded
 
 ## System Requrements
-**OS:** Windows XP
+**OS:** Windows 7 64-BIT
 
-**Processor:** Intel Pentium Core 2 Duo 2.0ghz or better
+**Processor:** Intel i3-2100 / AMD A8-5600k
 
-**Memory:** 2 GB Ram
+**Memory:** 4 GB Ram
 
-**Graphics:** 256 MB NVIDIA GeForce 7800GT or better or ATI Radeon 1800XT or better with Shader 3.0 capabilities
+**Graphics:** GeForce GTX 630 / Radeon HD 6570
 
-**DirectX:** Version 9
+**DirectX:** Version 11
 
-**Storage:** 14 GB available space
-
-**Sound:** 100% DirectX 9.0c compatible sound card
-
-**NET:** Broadband connection required for Multiplayer Connectivity
+**Storage:** 10 GB available space
 
 ## Linux
