@@ -19,8 +19,6 @@ draft: false
     color: #f5f5f5;
   }
 </style>
-
-
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var body = document.body;
