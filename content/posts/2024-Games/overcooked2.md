@@ -27,7 +27,7 @@ Size: **7.92 GiB**
 # ⠀
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:HGAPHE4L4CBPI2MEAOYBSE3FWFHONZ6O&dn=Overcooked!%202" style="color: green;">Magnet</a>
+<a href="magnet:?xt=urn:btih:JB6LFKNA2TT3SC3IMZPL332EYLI4IZ6D&dn=Overcooked!%202" style="color: green;">Magnet</a>
 
 ## Torrent Features
 Based of **online-fix.me release**
