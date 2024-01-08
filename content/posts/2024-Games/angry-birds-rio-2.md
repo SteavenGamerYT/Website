@@ -22,7 +22,7 @@ Languages: **ENG**
 Size: **140.8 MiB**
 
 ## Mirrors
-[magnet](magnet:?xt=urn:btih:N35V4Y2T54IEOGMGOB2D4VTT5S7ZKHQW&dn=Angry%20Birds%20Rio%202)
+<a href="magnet:?xt=urn:btih:N35V4Y2T54IEOGMGOB2D4VTT5S7ZKHQW&dn=Angry%20Birds%20Rio%202" style="color: green;">magnet</a>
 
 ## Torrent Features
 Based of **AngryBirdsRioInstaller_2.2.0.exe, Rovio release**

@@ -26,7 +26,7 @@ Size: **15.1 MiB**
 # ⠀
 
 ## Mirrors
-[magnet](magnet:?xt=urn:btih:R4OANZVSDZLZAHSXC5VJDW2EZ2CTQF3U&dn=Ozzy%20Bubbles)
+<a href="magnet:?xt=urn:btih:R4OANZVSDZLZAHSXC5VJDW2EZ2CTQF3U&dn=Ozzy%20Bubbles" style="color: green;">magnet</a>
 
 ## Torrent Features
 Based of **Gametop release**

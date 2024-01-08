@@ -22,7 +22,7 @@ Languages: **ENG**
 Size: **103.1 MiB**
 
 ## Mirrors
-[magnet](magnet:?xt=urn:btih:P72SQR3ZRHIBMUVSLF7424WE4ZNA35AM&dn=Angry%20Birds%20Seasons)
+<a href="magnet:?xt=urn:btih:P72SQR3ZRHIBMUVSLF7424WE4ZNA35AM&dn=Angry%20Birds%20Seasonse" style="color: green;">magnet</a>
 
 ## Torrent Features
 Based of **AngryBirdsSeasonsInstaller_4.0.1.exe, Rovio release**

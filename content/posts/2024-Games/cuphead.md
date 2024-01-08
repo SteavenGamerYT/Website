@@ -27,7 +27,7 @@ Size: **5.39 GiB**
 # ⠀
 
 ## Mirrors
-[magnet](magnet:?xt=urn:btih:Z3SSBPLA6DT34B3UXAL2RF463W6NIS3F&dn=Cuphead)
+<a href="magnet:?xt=urn:btih:Z3SSBPLA6DT34B3UXAL2RF463W6NIS3F&dn=Cuphead" style="color: green;">magnet</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**

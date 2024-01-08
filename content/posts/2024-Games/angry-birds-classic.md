@@ -22,7 +22,7 @@ Languages: **ENG**
 Size: **159.2 MiB**
 
 ## Mirrors
-[magnet](magnet:?xt=urn:btih:YLSSE5FCJIIHIH4HZ3OCNNE6PD3XRWTX&dn=Angry%20Birds%20Classic)
+<a href="magnet:?xt=urn:btih:YLSSE5FCJIIHIH4HZ3OCNNE6PD3XRWTX&dn=Angry%20Birds%20Classic" style="color: green;">magnet</a>
 
 ## Torrent Features
 Based of **AngryBirdsInstaller__3.3.0.exe, Rovio release**
