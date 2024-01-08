@@ -26,7 +26,7 @@ draft: false
 # ⠀
 
 # Mirrors
-<a href="magnet:?xt=urn:btih:6Z5UERSOYA27EPNPWORGLYUILBK5SVTY&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">magnet</a>
+<a href="magnet:?xt=urn:btih:6Z5UERSOYA27EPNPWORGLYUILBK5SVTY&dn=Marvel%E2%80%99s%20Spider-Man%20-%20Miles%20Morales" style="color: green;">Magnet</a>
 
 ## Torrent Features
 Based of **Steam-Rip release**

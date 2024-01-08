@@ -29,7 +29,7 @@ Size: **7.3 GiB**
 # ⠀
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:5AG5R5HONAPHVOMSMORNO7XU5SELCWW2&dn=Blur" style="color: green;">magnet</a>
+<a href="magnet:?xt=urn:btih:5AG5R5HONAPHVOMSMORNO7XU5SELCWW2&dn=Blur" style="color: green;">Magnet</a>
 
 ## Torrent Features
 Based of **908- Blur (Update 2 + MULTi5) – [DODI Repack],DODI release**

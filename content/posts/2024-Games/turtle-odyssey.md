@@ -26,7 +26,7 @@ Size: **33.8 MiB**
 # ⠀
 
 ## Mirrors
-<a href="magmagnet:?xt=urn:btih:OUIQWO5FTLWOMH4J3IKUAGHQR3K2UGUV&dn=Turtle%20Odyssey" style="color: green;">magnet</a>
+<a href="magmagnet:?xt=urn:btih:OUIQWO5FTLWOMH4J3IKUAGHQR3K2UGUV&dn=Turtle%20Odyssey" style="color: green;">Magnet</a>
 
 ## Torrent Features
 Based of **Gametop release**

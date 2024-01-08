@@ -22,7 +22,7 @@ Languages: **ENG**
 Size: **106.4 MiB**
 
 ## Mirrors
-<a href="magnet:?xt=urn:btih:TFIIHAMF26UHKXJ6C32ATO5UVV4CNSQ3&dn=Angry%20Birds%20Star%20Wars%202" style="color: green;">magnet</a>
+<a href="magnet:?xt=urn:btih:TFIIHAMF26UHKXJ6C32ATO5UVV4CNSQ3&dn=Angry%20Birds%20Star%20Wars%202" style="color: green;">Magnet</a>
 
 ## Torrent Features
 Based of **AngryBirdsStarWarsIIInstaller_1.5.1.exe	, Rovio release**

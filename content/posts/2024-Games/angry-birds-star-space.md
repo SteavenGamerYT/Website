@@ -22,7 +22,7 @@ Languages: **ENG**
 Size: **148.7 MiB**
 
 ## Mirrors
-<a href="mammagnet:?xt=urn:btih:YCHPGVRD5AOHK2JQS42PLX4D4SSZR2IJ&dn=Angry%20Birds%20Space" style="color: green;">magnet</a>
+<a href="mammagnet:?xt=urn:btih:YCHPGVRD5AOHK2JQS42PLX4D4SSZR2IJ&dn=Angry%20Birds%20Space" style="color: green;">Magnet</a>
 
 ## Torrent Features
 Based of **Angry Birds Space Free Download (Update 13/11/2017), IGG-GAMES release**
