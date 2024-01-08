@@ -1,6 +1,5 @@
 ---
 title: "Cuphead"
-
 date: 2024-01-07
 url: /cuphead
 image: images/2024-Games/cuphead.jpg
@@ -11,6 +10,28 @@ tags:
 draft: false
 ---
 ##
+<style>
+  body.dark-mode,
+  body.dark-mode main * {
+    background: url('https://miro.medium.com/v2/resize:fit:1024/1*gZOhozCuSyTTrqxKKMslCg.jpeg') center center fixed no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+    color: #f5f5f5;
+  }
+</style>
+
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var body = document.body;
+        var switcher = document.querySelector('.js-toggle');
+                body.classList.add('dark-mode');
+                // Save user preference in storage
+                localStorage.setItem('darkMode', 'true');
+            
+        });
+</script>
+
 <audio controls autoplay>
   <source src="/audio/cuphead.mp3" type="audio/mp3">
   Your browser does not support the audio tag.
