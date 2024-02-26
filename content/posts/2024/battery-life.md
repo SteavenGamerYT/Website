@@ -13,9 +13,9 @@ draft: false
 ---
 
 ## Battery Life
-So at frist most distros ships with `power-profiles-daemon`.
+So at first, most distros ship with `power-profiles-daemon`.
 
-This app is good for changing profiles but doesnt give you the best battery life, so we can remove it by running
+This app is good for changing profiles but doesn't give you the best battery life, so we can remove it by running:
 
 `sudo pacman -Rns power-profiles-daemon` 
 
@@ -23,7 +23,7 @@ This app is good for changing profiles but doesnt give you the best battery life
 
 `sudo dnf remove power-profiles-daemon`
 
-Now we can install Tlp by running
+Now we can install TLP, by running:
 
 `sudo pacman -S tlp`
 
@@ -31,7 +31,7 @@ Now we can install Tlp by running
 
 `sudo dnf install tlp`
 
-Now configure tlp
+Now configure TLP:
 
 ```sh
 sudo systemctl mask systemd-rfkill.service
@@ -41,19 +41,17 @@ sudo systemctl enable --now tlp
 sudo tlp start
 ```
 
-Now you can have better battery life, like it will last longer after changer.
-
-But this doesnt make the battery last longer like its health
+Now you can have better battery life, it will last longer after charging. This doesn't improve battery health though
 
 ## Battery Health
 
-To get better battery health
+To get better battery health:
 
-run `ls /sys/class/power_supply/BAT0/`
+Run: `ls /sys/class/power_supply/BAT0/`
 
-if you have `charge_control_end_threshold` then you can contune, if not then consder getting a better laptop.
+If you have `charge_control_end_threshold` then you can continue, if not then consider getting a better laptop.
 
-Create a custom service to set battery to changer at 80% only
+Create a custom service to set the battery maximum charge to 80%:
 
 `sudo nano /etc/systemd/system/battery_charge_threshold.service`
 
