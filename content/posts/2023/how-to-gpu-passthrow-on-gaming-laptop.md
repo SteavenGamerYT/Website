@@ -1,5 +1,5 @@
 ---
-title: "How to GPU PASSTHROW on Gaming Laptop"
+title: "How to GPU Passthrough on a Gaming Laptop"
 
 date: 2023-05-16
 url: /how-to-gpu-passthrow-on-gaming-laptop
@@ -20,7 +20,7 @@ draft: false
 
 16gb of ram
 
-more then 8cores cpu
+greater than 8 cores CPU
 
 2 displays
 
@@ -28,28 +28,28 @@ more then 8cores cpu
 
 2 mouses
 
-ARCH LINUX
+Arch Linux.
 
-WAYLAND and KDE
+Wayland and KDE.
 
 ## Packages
 
 `yay -S nvidia supergfxctl plasma5-applets-supergfxctl qemu-desktop libvirt edk2-ovmf virt-manager dnsmasq update-grub`
 
-## Grub Confgration
+## Grub Configuration
 
 `sudo nano /etc/default/grub`
 
 Open Grub Config and Find `GRUB_CMDLINE_LINUX_DEFAULT=` and add `nvidia_drm.modeset=1 intel_iommu=on iommu=pt`
 
-Example of my laptop `GRUB_CMDLINE_LINUX_DEFAULT="loglevel=4 nvidia_drm.modeset=1 resume=/dev/disk/by-uuid/1dbe024d-28d7-4f2b-b556-b2969fd0e549 resume_offset=91174912 intel_iommu=on iommu=pt"`
+Example from my laptop: `GRUB_CMDLINE_LINUX_DEFAULT="loglevel=4 nvidia_drm.modeset=1 resume=/dev/disk/by-uuid/1dbe024d-28d7-4f2b-b556-b2969fd0e549 resume_offset=91174912 intel_iommu=on iommu=pt"`
 
 ![](/images/2023/gpupassthrow2023/grub.conf.png)
 
-Update Grub NOW
+Update Grub now.
 
 `sudo update-grub`
-## Supergfxctl Confgration
+## Supergfxctl Configuration
 
 Enable and start the service
 
@@ -83,7 +83,7 @@ Restart the Service Now `sudo systemctl restart supergfxd`
 
 Reboot
 
-## Libvirt Confgration
+## Libvirt Configuration
 
 `sudo gnome-text-editor /etc/libvirt/qemu.conf`
 
@@ -93,7 +93,7 @@ example `#user = "omarhanykasban"`
 
 Remove # from `#group = "libvirt-qemu"`
 
-this how it should look like
+This is how it should look:
 
 ![](/images/2023/gpupassthrow2023/qemu.conf.png)
 
@@ -103,7 +103,7 @@ Remove # from `#unix_sock_group = "libvirt"`
 
 and Remove # from `#unix_sock_ro_perms = "0777"`
 
-this how it should look like
+This is how it should look:
 
 ![](/images/2023/gpupassthrow2023/libvirt.conf.png)
 
