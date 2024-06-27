@@ -26,11 +26,18 @@ When running non-Steam games on Linux, it's essential to set specific environmen
 export DXVK_STATE_CACHE_PATH="$HOME/.cache/dxvk"
 ```
 ## MESA_GLSL_CACHE_DIR
-VKD3D_SHADER_CACHE_PATH is used by vkd3d, a Direct3D 12 to Vulkan translation library. This variable specifies where the shader cache should be stored for games using Direct3D 12.
+
+`MESA_GLSL_CACHE_DIR` is used by Mesa, the open-source implementation of the OpenGL specification. This environment variable specifies where Mesa should store its compiled GLSL (OpenGL Shading Language) shaders.
 
 ### Why It's Important:
-- **Reduced Compilation Overhead**: Cached shaders reduce the need for on-the-fly compilation, which can cause performance drops.
-- **Smoother Gameplay:** Helps in maintaining consistent frame rates by avoiding sudden spikes due to shader compilation.
+- **Enhanced Performance**: Precompiled shaders mean the GPU doesn't need to recompile shaders every time the game runs.
+- **Consistency**: Ensures the same shader performance across different gaming sessions.
+
+### Example:
+```sh
+export MESA_GLSL_CACHE_DIR="$HOME/.cache/mesa"
+```
+Setting `MESA_GLSL_CACHE_DIR` allows Mesa to manage and reuse compiled shaders efficiently, leading to smoother gameplay and faster load times for non-Steam games on Linux.
 
 ## VKD3D_SHADER_CACHE_PATH
 
