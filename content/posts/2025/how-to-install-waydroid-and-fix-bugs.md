@@ -1,7 +1,7 @@
 ---
 title: "How to install Waydroid and fix bugs"
 
-date: 2025-07-20
+date: 2025-08-20
 url: /how-to-install-waydroid-and-fix-bugs/
 image: images/2023-thumbs/my-first-post.jpg
 categories:
