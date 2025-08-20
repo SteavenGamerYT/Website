@@ -4,7 +4,9 @@ title = "SteavenGamerYT | Hream"
 # theme
 theme = "northendlab"
 # post pagination
-paginate = "10"
+[pagination]
+  pagerSize = 10
+
 # post excerpt
 summaryLength = "10"
 [outputs]
