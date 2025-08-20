@@ -26,11 +26,11 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 ######################### Default Parameters ###########################
 [params]
 # logo
-logo = "images/yma3c89hgvob1.jpg"
+logo = "images/Toad_Artwork_-_Super_Mario_3D_World.png"
 logoWidth = 121
 logoHeight = 50
 # favicon
-favicon = "images/yma3c89hgvob1.jpg"
+favicon = "images/Toad_Artwork_-_Super_Mario_3D_World.png"
 # meta data
 author = "SteavenGamerYT"
 description = "Having Fun with Technology"
