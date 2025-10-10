@@ -130,7 +130,7 @@ Use Bcdboot to create boot files
 mkdir B:\mount
 dism /Mount-Wim /WimFile:B:\Windows\System32\Recovery\WinRE.wim /index:1 /MountDir:B:\mount
 dism /Image:B:\mount /Add-Driver /Driver:G:\VMD_DCH_Intel_Z_V18.6.1.1016Sub1_24265_20250808160408 /Recurse
-dism /Unmount-Wim /MountDir:B:\moun /Commit
+dism /Unmount-Wim /MountDir:B:\mount /Commit
 ```  
 `G:\VMD_DCH_Intel_Z_V18.6.1.1016Sub1_24265_20250808160408` beening the path of ventoy and drivers in it  
 
