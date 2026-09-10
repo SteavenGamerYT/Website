@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "https://boisterous-toffee-60cc83.netlify.app"
+baseURL = "http://arabcraft.omarhanykasban.online:5050/"
 title = "SteavenGamerYT | Hream"
 # theme
 theme = "northendlab"
